@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:1F6AAA,100:3A8EDC&height=300&section=header&text=dahee%20&fontSize=90)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=dahee's+github!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=dahee's+github!" alt="Typing SVG">
+  </a>
+</div>
+
 ## Hi there 👋
 
 <!--
