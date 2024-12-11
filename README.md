@@ -5,7 +5,7 @@
   </a>
 </div>
 
-## Hi there 👋
+** ## Hi there 👋
 
 <!--
 **dhlim55/dhlim55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
