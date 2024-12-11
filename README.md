@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:1F6AAA,100:3A8EDC&height=300&section=header&text=dahee%20&fontSize=90)
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=dahee's+github!" alt="Typing SVG">
   </a>
 </div>
 
-** ## Hi there 👋
+
 
 <!--
 **dhlim55/dhlim55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
